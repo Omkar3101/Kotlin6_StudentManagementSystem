@@ -19,7 +19,7 @@ A simple Student Management System built using Kotlin that allows adding, viewin
 ## How to Run the Project?
 
 * Clone the Repository
-git clone https://github.com/Omkar3101/Kotlin_StudentManagementSystem.git
+git clone https://github.com/Omkar3101/Kotlin6_StudentManagementSystem.git
 
 * Open in IntelliJ IDEA
 Select Open Project and navigate to the cloned repository
