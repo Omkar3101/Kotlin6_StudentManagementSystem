@@ -3,9 +3,9 @@
 A simple Student Management System built using Kotlin that allows adding, viewing, and managing student records. This project is part of my Kotlin learning journey and focuses on implementing object-oriented programming (OOP) concepts.
 
 ## Features
-1. Add new students with name, age, and ID.
+1. Add new students with name, age, and roll no.
 2. View all students in a structured format.
-3. Search for a student by ID.
+3. Update student marks
 4. Remove a student from the system.
 5. Beginner-friendly Kotlin project using Classes & Objects.
 
@@ -30,7 +30,7 @@ Open Main.kt file
 * Click on Run or use Shift + F10
 
 * Use the Student Management System
-1. Select an option: Add Student, View Students, Search, or Remove Student
+1. Select an option: Add Student, View Students, update marks, or delete Student
 2. Enter student details when prompted.
 3. View and manage student records dynamically.
 
