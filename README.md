@@ -158,12 +158,12 @@ fun main() {
 
 
 ## License
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/Omkar3101/Kotlin6_StudentManagementSystem/blob/main/LICENSE) file for details.
 
 ## Let's Connect
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/omkar3101)
 
-GitHub
+[GitHub](https://github.com/Omkar3101)
 
 
